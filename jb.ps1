@@ -1,5 +1,5 @@
 $idePaths = @(
-    "C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.2\bin\idea64.exe"
+    "C:\Program Files\JetBrains\DataGrip 2024.2.2\bin\datagrip64.exe"
 )
 #Iterate through each IDE path
 foreach ($path in $idePaths) {
